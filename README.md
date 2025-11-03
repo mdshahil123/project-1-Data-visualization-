@@ -1,1 +1,1 @@
-# project-1-Data-visualization-&-(Deployment of project)
+# project-1-Area Price Prediction-&-(Deployment of project)
